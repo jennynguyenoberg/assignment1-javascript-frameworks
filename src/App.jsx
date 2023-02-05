@@ -47,7 +47,7 @@ function App() {
                 return 'First Article'
               }
             })
-          }}>Switch Article</button>
+          }}>Next Article</button>
         </div>
       </div>
     </>
