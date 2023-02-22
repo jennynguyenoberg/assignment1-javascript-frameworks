@@ -17,7 +17,7 @@
 ### 2. Idea for Personal React Project
 A pomodoro timer 🍅 that counts down with 25 minute intervals, everytime a startbutton is pushed. This will be useful for focusing while studying.
 
-Visit live site here: [Placeholder]
+Visit live site here: [Pomodoro Timer](https://assignment3-javascript-frameworks.vercel.app/)
 
 ### 3. Styling of First Personal React Project
 ![Image of website mockup](https://cdn.dribbble.com/userupload/3914318/file/original-3d138abec1b1d90abce43850cf0e176a.png?compress=1&resize=1600x1200)Source: https://dribbble.com/shots/19776825-A-Mockups-iPhone-14-Pro
